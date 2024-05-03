@@ -1,5 +1,3 @@
-![image](https://github.com/SyedAounHaiderSherazi/StudentSubjectAnalysis/assets/168753404/735a603a-ecdf-4d5f-8790-351442bbb7b1)
-
 Write a c++ program for analyzing student grades in 3 subjects using arrays. The program should:
 ● Read a file "grades.txt" where the first line contains the number of students and the subsequent lines
 contain the grades for each student in each subject.
