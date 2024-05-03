@@ -1,0 +1,145 @@
+Grades:
+
+RECORD  NAME           SUBJECT1  SUBJECT2  SUBJECT3
+1       Ali                 90        85        92
+
+2       Sara                88        91        87
+
+3       Ahmed               78        82        80
+
+4       Zara                92        94        91
+
+5       Usman               70        75        73
+
+6       Ayesha              85        87        83
+
+7       Bilal               65        68        67
+
+8       Hina                95        97        94
+
+9       Kamran              60        62        58
+
+10      Laraib              89        85        88
+
+11      Mohsin              77        79        75
+
+12      Nadia               93        95        90
+
+13      Omar                72        74        71
+
+14      Pervaiz             86        88        84
+
+15      Qasim               66        69        64
+
+16      Rabia               96        98        97
+
+17      Saad                61        63        59
+
+18      Tahira              90        92        89
+
+19      Uzair               78        81        76
+
+20      Viqar               94        96        93
+
+21      Waqar               73        76        74
+
+22      Xahra               84        86        82
+
+23      Yasir               67        65        69
+
+24      Zohaib              97        99        98
+
+25      Asma                62        64        60
+
+26      Babar               91        93        90
+
+27      Cyrus               79        77        81
+
+28      Dania               95        97        96
+
+29      Ehsan               74        72        76
+
+30      Fahad               85        83        87
+
+
+Average of Students:
+
+RECORD  NAME           AVERAGE
+1       Ali                 89.000    
+
+2       Sara                88.667    
+
+3       Ahmed               80.000    
+
+4       Zara                92.333    
+
+5       Usman               72.667    
+
+6       Ayesha              85.000    
+
+7       Bilal               66.667    
+
+8       Hina                95.333    
+
+9       Kamran              60.000    
+
+10      Laraib              87.333    
+
+11      Mohsin              77.000    
+
+12      Nadia               92.667    
+
+13      Omar                72.333    
+
+14      Pervaiz             86.000    
+
+15      Qasim               66.333    
+
+16      Rabia               97.000    
+
+17      Saad                61.000    
+
+18      Tahira              90.333    
+
+19      Uzair               78.333    
+
+20      Viqar               94.333    
+
+21      Waqar               74.333    
+
+22      Xahra               84.000    
+
+23      Yasir               67.000    
+
+24      Zohaib              98.000    
+
+25      Asma                62.000    
+
+26      Babar               91.333    
+
+27      Cyrus               79.000    
+
+28      Dania               96.000    
+
+29      Ehsan               74.000    
+
+30      Fahad               85.000    
+
+
+Average of Subjects:
+
+Subject 1: 81.067
+Subject 2: 82.433
+Subject 3: 80.800
+
+
+Student with teh Highest Average:
+
+RECORD  NAME           AVERAGE
+24      Zohaib              98.00
+
+Subject with Lowest Average:
+
+SUBJECT  AVERAGE
+3        80.80
+
